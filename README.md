@@ -1,6 +1,8 @@
 # KODLUYORUZ ILK REPO
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![alt text](/img.jpg "image")
+
 ## INSTALLATION
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ```
